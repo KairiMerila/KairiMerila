@@ -13,7 +13,6 @@ I enjoy working with data, solving problems, and transforming raw information in
 - SQL (PostgreSQL)
 - Python
 - Pandas
-- Plotly
 - Power BI
 - Git & GitHub
 - VS Code
