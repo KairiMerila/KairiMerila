@@ -1,16 +1,70 @@
-## Hi there 👋
 
 <!--
 **KairiMerila/KairiMerila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**# Hi there! 👋 I'm Kairi Merila**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Aspiring Data Analyst
+
+I'm currently studying in the **Data Analyst Career Accelerator (DACA)** program, where I'm building practical skills in data analysis, data visualization, and automation.
+
+I enjoy working with data, solving problems, and transforming raw information into meaningful insights that support better decision-making.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- SQL (PostgreSQL)
+- Python
+- Pandas
+- Plotly
+- Power BI
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+- Supabase
+
+---
+
+## 📂 Featured Projects
+
+### 📈 UrbanStyle Sales Analysis
+- Data cleaning with Pandas
+- RFM customer segmentation
+- KPI calculations
+- Interactive Power BI dashboard
+
+### 🔄 Automated Data Pipeline
+- Data extraction from Supabase API
+- Data transformation with Python
+- Weekly KPI reporting
+- Clean and reusable pipeline structure
+
+### 📊 Customer Analytics
+- Customer segmentation
+- Revenue analysis
+- Sales trends
+- Business recommendations
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Data Pipelines
+- Power BI Dashboard Design
+- Streamlit
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for my first opportunity as a **Junior Data Analyst**, where I can continue learning while helping businesses make data-driven decisions.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/kmerila
+- Email: kairimerila@gmail.com
