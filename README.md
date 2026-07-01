@@ -1,4 +1,4 @@
-**# Hi there! 👋 I'm Kairi Merila**
+# Hi there! 👋 I'm Kairi Merila #
 
 ## 📊 Aspiring Data Analyst
 
