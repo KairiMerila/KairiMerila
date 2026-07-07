@@ -2,9 +2,9 @@
 
 ## Junior Data Analyst | SQL • Power BI • Python • Pandas • Git
 
-Strong with the data, I am. Turning numbers into stories, dashboards into decisions, and messy datasets into useful insight.
+I am a analytical and detail-oriented Junior Data Analyst focused on turning complex datasets into clear, actionable business insights. I specialize in querying relational databases, building interactive dashboards, and transforming messy data into reliable reports that drive better decision-making.
 
-I am building my path as a **Junior Data Analyst**, focused on uncovering patterns, explaining business performance, and helping teams make better decisions through clear analysis. My favorite part of analytics is the moment when raw numbers stop looking like rows and columns and start revealing a story.
+My journey into data is fueled by a genuine passion for numbers, logic, and problem-solving. My favorite part of analytics is the moment when raw data stops looking like rows and columns and starts revealing a meaningful story that helps businesses understand what to do next.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kmerila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmerila)
 [![Email](https://img.shields.io/badge/Email-kairimerila%40gmail.com-6B8E23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairimerila@gmail.com)
