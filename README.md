@@ -1,65 +1,24 @@
-# Hi there! 👋 I'm Kairi Merila #
+# Hi, I'm Kairi Merila — Junior Data Analyst 👋
 
-## 📊 Aspiring Junior Data Analyst
-
-I'm currently studying in the **Data Analyst Career Accelerator (DACA)** program, where I'm building practical skills in data analysis, data visualization, and automation.
-
-I enjoy working with data, solving problems, and transforming raw information into meaningful insights that support better decision-making.
+Building data-driven solutions and transforming raw information into meaningful, actionable insights using SQL, Python, and Power BI. 
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-- SQL (PostgreSQL)
-- Python
-- Pandas
-- Power BI
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Supabase
+**SQL** (PostgreSQL, Supabase) | **Python** (Pandas, Plotly) | **Visualisation** (Power BI) | **Tools** (Git, GitHub, VS Code, Jupyter)
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-### 📈 UrbanStyle Sales Analysis
-- Data cleaning with Pandas
-- RFM customer segmentation
-- KPI calculations
-- Interactive Power BI dashboard
-
-### 🔄 Automated Data Pipeline
-- Data extraction from Supabase API
-- Data transformation with Python
-- Weekly KPI reporting
-- Clean and reusable pipeline structure
-
-### 📊 Customer Analytics
-- Customer segmentation
-- Revenue analysis
-- Sales trends
-- Business recommendations
+*   **UrbanStyle Sales Analysis:** An end-to-end data project involving data cleaning with Pandas, RFM customer segmentation, and an interactive Power BI dashboard for business KPI tracking.
+*   **Automated Data Pipeline:** A clean and reusable pipeline structure developed to extract data from Supabase API, transform it with Python, and automate weekly KPI reporting.
+*   **Customer Analytics Platform:** A analytical focus on customer segmentation, sales trends, and revenue analysis to deliver strategic business recommendations.
 
 ---
 
-## 🌱 Currently Learning
+### 📫 Connect with Me
 
-- Advanced SQL
-- Python for Data Analysis
-- Data Pipelines
-- Power BI Dashboard Design
-- Streamlit
-
----
-
-## 🎯 Career Goal
-
-I'm looking for my first opportunity as a **Junior Data Analyst**, where I can continue learning while helping businesses make data-driven decisions.
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/kmerila
-- Email: kairimerila@gmail.com
+- **LinkedIn:** [linkedin.com/in/kmerila](https://www.linkedin.com/in/kmerila)
+- **Email:** [kairimerila@gmail.com](mailto:kairimerila@gmail.com)
