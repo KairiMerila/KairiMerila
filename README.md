@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kairi Merila #
 
-## 📊 Aspiring Data Analyst
+## 📊 Aspiring Junior Data Analyst
 
 I'm currently studying in the **Data Analyst Career Accelerator (DACA)** program, where I'm building practical skills in data analysis, data visualization, and automation.
 
