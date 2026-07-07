@@ -6,9 +6,9 @@ I am a analytical and detail-oriented Junior Data Analyst focused on turning com
 
 My journey into data is fueled by a genuine passion for numbers, logic, and problem-solving. My favorite part of analytics is the moment when raw data stops looking like rows and columns and starts revealing a meaningful story that helps businesses understand what to do next.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kmerila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmerila)
-[![Email](https://img.shields.io/badge/Email-kairimerila%40gmail.com-6B8E23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairimerila@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KairiMerila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KairiMerila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kmerila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kmerila)  
+[![Email](https://img.shields.io/badge/Email-kairimerila%40gmail.com-6B8E23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kairimerila@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-KairiMerila-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KairiMerila)  
 
 ---
 
